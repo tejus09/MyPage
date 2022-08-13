@@ -226,7 +226,11 @@ h6 {
   background-size: cover;
   opacity: 0.9;
 }
-
+@media(max-width: 500px){
+  #hero{
+  background-position: top right;
+  }
+}
 #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
