@@ -430,7 +430,7 @@ section {
 }
 .main-btn:hover {
   transition: all 0.4s ease-out;
-  background: #149ddd; 
+  background: linear-gradient(-26deg, #21D4FD 0%, #B721FF 80%); 
   color: white;
   z-index: 1;
 }
